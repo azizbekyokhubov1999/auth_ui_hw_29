@@ -10,6 +10,7 @@ class OnBoardingPage extends StatefulWidget {
 }
 
 class _OnBoardingPageState extends State<OnBoardingPage> {
+
  Widget btnLogin(){
    return Container(
      width: double.infinity,
