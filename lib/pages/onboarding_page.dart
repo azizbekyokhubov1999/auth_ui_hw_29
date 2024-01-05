@@ -109,6 +109,7 @@ class _OnBoardingPageState extends State<OnBoardingPage> {
    );
  }
 
+
   @override
   Widget build(BuildContext context) {
     return Scaffold(

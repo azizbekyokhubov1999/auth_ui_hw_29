@@ -20,6 +20,7 @@ class MyApp extends StatelessWidget {
       title: 'Registration UI',
       debugShowCheckedModeBanner: false,
       initialRoute:  '/onboarding_page',
+
       routes: {
         '/onboarding_page' : (context) => const OnBoardingPage(),
         '/login_page' : (context) => const LoginPage(),
